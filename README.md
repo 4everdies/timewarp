@@ -1,6 +1,5 @@
 <p align="center">
   <img width="1365" height="767" alt="timewarp crack" src="https://github.com/user-attachments/assets/f2d3ff82-7fc1-45ff-b057-52358405fb8e" />
-">
 </p>
 
 <h1 align="center">TimeWarp Ghost Client</h1>
