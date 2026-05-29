@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="1365" height="767" alt="timewarp crack" src="https://github.com/user-attachments/assets/f2d3ff82-7fc1-45ff-b057-52358405fb8e" />
+<img width="1919" height="1018" alt="timewarpv2" src="https://github.com/user-attachments/assets/a24ef816-5232-4254-ab44-4d09e021fc4b" />
 </p>
 
-<h1 align="center">TimeWarp Ghost Client</h1>
+<h1 align="center">TimeWarp Ghost Client v2</h1>
 
 <p align="center">
-  <b>Crack of the timewarp</b><br>
+  <b>Crack of the timewarp v2</b><br>
   fakecrime.bio/4ever
 </p>
 
