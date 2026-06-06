@@ -15,7 +15,7 @@ Only Lunar Client 1.8.9.
 ## About the project
 
 this repository contains the crack of timewarp.
-the goal of this leak is simply to show what the client actually is.
+and a simple loader for timewarp (v2)
 
 credits: 
 - @merlinagain - crack the timewarp v1
