@@ -17,7 +17,16 @@ Only Lunar Client 1.8.9.
 this repository contains the crack of timewarp.
 and a simple loader for timewarp (v2)
 
-credits: 
+## Credits: 
 - @merlinagain - crack the timewarp v1
 - @ehubzz - crack the timewarp v2
+- @4everdies - loader
 
+### How to build?
+```cmake -B build \
+  -DCMAKE_SYSTEM_NAME=Windows \
+  -DCMAKE_C_COMPILER=x86_64-w64-mingw32-gcc \
+  -DCMAKE_CXX_COMPILER=x86_64-w64-mingw32-g++ \
+  -DCMAKE_BUILD_TYPE=Release
+
+cmake --build build```
